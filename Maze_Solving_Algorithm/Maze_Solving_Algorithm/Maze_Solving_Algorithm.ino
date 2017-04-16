@@ -1,6 +1,6 @@
 
 // Patterned Line Solving Algorithm
-// Written By Dheeraj Allamaneni and Chatti Vamshi Krishna.
+// Written By Chatti Vamshi Krishna and Dheeraj Allamaneni 
 // This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 // Adaptations of this work are allowed.
 // Commercial usage of this work is restricted.
@@ -557,4 +557,4 @@ long check_distance()
 
 
 
-//
+//https://github.com/chsvk
