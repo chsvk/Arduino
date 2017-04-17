@@ -1,0 +1,11 @@
+The folder consists of a single Arduino Code for Object Classification Algorithm.
+
+INSTRUCTIONS AND TUTORIAL WILL SOON BE AVAILABLE AT INSTRUCTABLES
+
+  CONTENTS OF THE CODE:-
+   The .ino file contains a ready to go object classification algorithm which is capable of determining the width of an object and classify it
+   in comparison to other detected objects.
+
+   
+TESTING INSTRUCTIONS:-
+  To test the arduino board, go to file-examples and upload and run the blink.ino sketch to see if its working.
